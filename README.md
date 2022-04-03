@@ -1,5 +1,5 @@
 # N1X - DISCORD BOT.
-![follow](https://img.shields.io/github/followers/qqwe63xx63) ![youtubesubs](https://img.shields.io/youtube/channel/subscribers/UCLl7rnIfUxcH1bHcpNxm8EA) ![twitter](https://img.shields.io/twitter/follow/qqwe63xx63?label=followers)
+![follow](https://img.shields.io/github/followers/qqwe63xx63?label=follow&logo=GitHub) ![youtubesubs](https://img.shields.io/youtube/channel/subscribers/UCLl7rnIfUxcH1bHcpNxm8EA) ![twitter](https://img.shields.io/twitter/follow/qqwe63xx63?label=followers)
 
 ___
 
