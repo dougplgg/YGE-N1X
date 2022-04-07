@@ -14,6 +14,6 @@ class PlayerNotConnected(CheckFailure):
 
 
 class MustBeSameChannel(CheckFailure):
-    """Player and user not in same channel"""
+    """Player and user not in same channel and his fuck my dick"""
 
     pass
