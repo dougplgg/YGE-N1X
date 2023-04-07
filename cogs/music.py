@@ -4,7 +4,7 @@ import re
 import aiohttp
 from aiohttp.helpers import current_task
 import discord
-import wavelink
+import wavelink # so i think i need to debug this code for the next time
 from essentials.player import WebPlayer
 from discord.ext import commands
 from essentials.checks import in_same_channel, player_connected, voice_connected
