@@ -72,7 +72,7 @@ ___
 ## ***If you want to contact me:***
 
 - Gmail: sashaevtfocus@gmail.com 
-- Instagram: [@qquwe63xx63](https://www.instagram.com/qquwe63xx63)
+- Instagram: [@luxqkei](https://www.instagram.com/luxqkei)
 - twitter: [@qquwe63xx63](https://twitter.com/qquwe63xx63)
 
 
