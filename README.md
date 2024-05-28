@@ -1,6 +1,4 @@
 # N1X - DISCORD BOT.
-![follow](https://img.shields.io/github/followers/qqwe63xx63?label=follow&logo=GitHub) ![youtubesubs](https://img.shields.io/youtube/channel/subscribers/UCLl7rnIfUxcH1bHcpNxm8EA) ![twitter](https://img.shields.io/twitter/follow/qqwe63xx63?label=followers)
-
 ___
 
 ![ver.](https://img.shields.io/badge/Python-v3.10.4-red) ![bot ver](https://img.shields.io/badge/Bot%20version-v1.10-blueviolet) ![lava ver ](https://img.shields.io/badge/Lavalink-v3.4-important)
