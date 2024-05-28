@@ -14,7 +14,7 @@ ___
 
 ## **What did it take to write the code?👨‍💻**
 
-### ***We use:***
+### ***I used:***
 
 - [Python documentation](https://docs.python.org/3/)
 - [Lavalink.py documentation](https://lavalink.readthedocs.io/en/master/)
@@ -67,11 +67,9 @@ ___
 ## **Enjoy!🤗**
 ___
 
-## ***If you want to contact me:***
+## ***contacts:***
 
-- Gmail: sashaevtfocus@gmail.com 
-- Instagram: [@luxqkei](https://www.instagram.com/luxqkei)
-- twitter: [@qquwe63xx63](https://twitter.com/qquwe63xx63)
+- Gmail: dougsimmons06@@gmail.com 
 
 
 
